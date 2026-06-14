@@ -1,0 +1,5 @@
+-- Query 06: SVB Crisis Case Study
+-- Dashboard: USDC Treasury Analysis for Fortune 500 Operations
+-- Business question: How did USDC transaction activity behave during the Silicon Valley Bank crisis week?
+-- Status: SQL query to be added after it is copied from Dune.
+-- Note: This was part of a group academic Dune dashboard project. Original dashboard/query authorship remains visible in the Dune workspace.
